@@ -1,0 +1,19 @@
+{
+  "name": "@justforfunfunfun/superjs",
+  "version": "1.0.0",
+  "description": "super power js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fredyang/superjs.git"
+  },
+  "author": "Fred Yang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fredyang/superjs/issues"
+  },
+  "homepage": "https://github.com/fredyang/superjs#readme"
+}
